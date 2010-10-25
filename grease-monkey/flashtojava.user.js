@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           FlashtoJava
 // @namespace      gizmode
-// @include        http://www.gizmodo.jp/2010/10/macflash.html?utm_source=atom&utm_medium=rss
+// @include        http://www.gizmodo.jp/2010/10/macflash.html*
 // ==/UserScript==
 
 var serializer = new XMLSerializer();
